@@ -1,5 +1,5 @@
 {
-    "name": "canemarcovaro/sql-generator",
+    "name": "froiden/mysql/sql-generator",
     "description": "convert Laravel migrations to raw SQL scripts",
     "authors": [
         {
